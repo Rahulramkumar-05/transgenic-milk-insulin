@@ -1,31 +1,55 @@
-# Human Proinsulin Production in the Milk of Transgenic Cattle
+# Production of Human Proinsulin in Transgenic Cattle Milk
 
-## Introduction
-Scientists have discovered a way to make a medicine called insulin in cow's milk. Insulin is important for people with diabetes because it helps control blood sugar levels.
+## Abstract
+The growing demand for human insulin to treat diabetes has led to innovative solutions, such as producing insulin in the milk of transgenic animals. This study aimed to produce human proinsulin in the milk of transgenic cattle using a pseudo-lentivirus containing the bovine β-casein promoter and human insulin sequences. The process involved generating modified adult fibroblasts, performing nuclear transfer, and analyzing the recombinant protein in milk using Western blotting and mass spectrometry.
 
-## How They Did It
-1. **Adding DNA:** Scientists took cells from a cow and added a tiny piece of human DNA that tells the cow to make insulin.
-2. **Creating a Transgenic Cow:** These modified cells were used to create a baby cow.
-3. **Milk Production:** When the baby cow grew up, it produced milk that contained insulin.
+## Key Terms
+- **Beta Cells:** Found in the pancreas, these cells regulate blood sugar levels and play a key role in diabetes management.
+- **Polypeptide:** Hormones made up of amino acids linked in chains, essential for insulin function.
+- **Insulin:** A hormone secreted by beta cells that regulates blood glucose levels and induces glucose storage in the liver.
+- **Proinsulin:** The precursor to insulin made by beta cells.
+- **Preproinsulin:** The initial product of insulin mRNA translation.
+- **Transgenic:** Organisms or cells with genomes altered by introducing foreign DNA sequences.
 
-## Testing the Milk
-To make sure the milk had insulin, scientists used special tests:
-- **Western Blotting:** This test showed bands that matched the size of insulin, proving it was there.
-- **Mass Spectrometry:** This test confirmed the presence of human insulin in the milk.
+## Objective
+To address the global demand for human insulin by producing it in the milk of transgenic cattle, leveraging milk’s natural protein production capabilities.
+
+## Methodology
+
+### Transgenic Vector Construction
+- A lentiviral vector was constructed with the bovine β-casein promoter and human insulin gene (hINS).
+- The hINS gene was amplified, cloned, and sequenced to confirm its accuracy.
+
+### Cell Line Generation and Transduction
+- Human insulin expression in MAC-T cells driven by the bovine β-casein promoter was evaluated.
+- Modified bovine fibroblasts were used for somatic cell nuclear transfer (SCNT) to generate transgenic embryos.
+
+### Embryo Transfer and Pregnancy Monitoring
+- Transgenic embryos were transferred to recipient cows, resulting in one successful pregnancy and the birth of a transgenic calf.
+
+### Lactation and Protein Analysis
+- Lactation was hormonally induced to produce milk for analysis.
+- Western blotting was used to identify bands corresponding to proinsulin and insulin.
+- Mass spectrometry was used to confirm the presence of human insulin and its C-peptide, indicating successful expression and processing of the recombinant protein.
 
 ## Results
-- The tests showed that the milk from the transgenic cow had insulin.
-- This means cows can be used to produce insulin, which can then be given to people with diabetes.
+- Sequence alignment of the hINS gene showed mutations in the intronic region.
+- Transgenic MAC-T cells successfully expressed the hINS gene.
+- One transgenic calf was born, and PCR analysis confirmed the presence of the transgene.
+- Western blotting and mass spectrometry validated the presence of human insulin in the milk, suggesting the conversion of proinsulin to insulin.
 
 ## Pros
-- **High Production:** Cows produce a lot of milk, which means a large amount of insulin can be made.
-- **Cost-Effective:** It could be cheaper to produce insulin in cow's milk than in factories.
-- **Consistent Supply:** Cows can provide a steady and reliable supply of insulin.
+- Potential for scaling up insulin production using transgenic animals, which can produce large quantities of milk.
+- Cost-effective: Producing insulin in cow’s milk could be cheaper than in factories.
+- Consistent supply: Cows can provide a steady and reliable supply of insulin, benefiting diabetic patients worldwide.
 
 ## Cons
-- **Ethical Concerns:** Some people might worry about the welfare of transgenic animals.
-- **Technical Challenges:** Making sure the insulin is pure and safe can be complicated.
-- **Reproduction Issues:** Not all transgenic cows might be healthy or able to reproduce well.
+- Technically challenging and resource-intensive to create transgenic animals and ensure consistent protein expression.
+- Ethical issues concerning genetic modification in animals, including animal welfare and long-term ecological impacts.
+- Potential reproductive issues: Not all transgenic cows may be healthy or able to reproduce well.
 
 ## Conclusion
-Using cows to produce insulin is a promising new technique. It could help ensure that everyone who needs insulin can get it, improving the lives of many people with diabetes. This research shows how science can come up with creative solutions to important health problems. However, it's important to consider both the benefits and challenges of this method.
+This study successfully demonstrated the production of human proinsulin in the milk of a transgenic cow using a lentiviral vector with the bovine β-casein promoter. This approach shows promise for meeting the growing demand for human insulin through biopharmaceutical production in transgenic animals.
+
+## Reference
+[Research Paper](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/biot.202300307)
