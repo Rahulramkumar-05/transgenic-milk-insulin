@@ -46,7 +46,7 @@ To address the global demand for human insulin by producing it in the milk of tr
 ## Cons
 - Technically challenging and resource-intensive to create transgenic animals and ensure consistent protein expression.
 - Ethical issues concerning genetic modification in animals, including animal welfare and long-term ecological impacts.
-- Potential reproductive issues: Not all transgenic cows may be healthy or able to reproduce well.
+- Potential reproductive issues not all transgenic cows may be healthy or able to reproduce well.
 
 ## Conclusion
 This study successfully demonstrated the production of human proinsulin in the milk of a transgenic cow using a lentiviral vector with the bovine β-casein promoter. This approach shows promise for meeting the growing demand for human insulin through biopharmaceutical production in transgenic animals.
